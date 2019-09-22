@@ -4,5 +4,5 @@
     <dimen name="small_padding">8dp</dimen>
     <dimen name="layout_margin">16dp</dimen>
     <dimen name="padding">24dp</dimen>
-    <dimen name="line_multiplier">1/2</dimen>
+    <dimen name="line_multiplier">1.2</dimen>
 </resources>
